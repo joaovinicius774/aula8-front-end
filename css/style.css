@@ -1,0 +1,40 @@
+#header {
+  background-color: #0b2447;
+  color: white;
+  padding: 9px;
+  text-align: center;
+}
+
+#menu {
+  float: left;
+  width: 20%;
+  height: 390px;
+  background-color: #3a8dde;
+}
+
+#menu a {
+  color: white;
+}
+
+#main {
+  margin-left: 20%;
+  height: 350px;
+  padding: 20px;
+  background-color: #d6e8fa;
+}
+
+.conteudo {
+  display: none;
+}
+
+.conteudo:target {
+  display: block;
+}
+
+#footer {
+  clear: both;
+  background-color: #0b2447;
+  color: white;
+  padding: 1px;
+  text-align: center;
+}
